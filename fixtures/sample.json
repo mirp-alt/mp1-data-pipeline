@@ -1,0 +1,6 @@
+{"Status": "success",
+"Count":3,
+"Data":[{"name": "Alice", "city": "Boston"},
+    {"name": "Bob", "city": "New York"},
+    {"name": "Charlie", "city": "Chicago"}]
+}
